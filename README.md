@@ -1,16 +1,16 @@
 # Tutorials
 
-
 ## Visual Studio Code - See Recorded Meeting (coming soon! - Meeting TBA)
 * TBA
 
-## [Intro To GitHub]()
+## [Intro To GitHub & GitHub Desktop](https://github.com/ISRC-Development/Tutorials/blob/main/Intro%20To%20GitHub%20And%20GitHub%20Desktop.md)
 
 ## [GitHub FUNdamentals](https://github.com/ISRC-Development/Tutorials/blob/main/GitHub%20Fundamentals.md)
 
-## Editing a mission & pushing Commits
+## [Mission Folders](https://github.com/ISRC-Development/Tutorials/blob/main/Mission%20Folders.md)
 
-> Now that we've gotten familiar with VSC, we can make some edits, but first... back to GitHub desktop!
+## [Editing A Mission & Pushing Commits](https://github.com/ISRC-Development/Tutorials/blob/main/Making%20Edits.md)
+
 
 
 
