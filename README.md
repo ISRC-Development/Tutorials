@@ -32,7 +32,7 @@ That's it!
 
 ## How does GitHub/GitHub desktop work?
 It's really not too hard, but if you have any questions then feel free to reach out to me,
-otherwise, [have a read](https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/adding-and-cloning-repositories/cloning-a-repository-from-github-to-github-desktop)!
+otherwise, [have a read](https://docs.github.com/en/desktop/installing-and-configuring-github-desktop/overview/getting-started-with-github-desktop)!
 
 ## Where do the two meet? Why are we using this system?
 
@@ -76,5 +76,5 @@ i) Editing & creating a new branch
 * That's it!
 
 ii) Committing to your new branch
-> This is easy.. if you have already published a new branch and would like to add more code to it, simply open Github Desktop and push the commit!
+* This is easy.. if you have already published a new branch and would like to add more code to it, simply open Github Desktop and push the commit!
 
