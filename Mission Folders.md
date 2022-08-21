@@ -14,7 +14,7 @@ __What is a mission folder?__
 
 * Initially, there will only be a single file called `mission.sqm` located in the folder. 
 
-* This is because we haven't added any scripts to or mission yet.
+* This is because we haven't added any scripts to our mission yet.
 
 * Mission Folders are named strictly for functionality and can only be in the format as follows: `My Mission Name.MyMapName`.
 
